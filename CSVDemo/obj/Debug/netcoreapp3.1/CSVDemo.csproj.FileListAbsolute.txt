@@ -1,0 +1,16 @@
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp3.1\CSVDemo.exe
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp3.1\CSVDemo.deps.json
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp3.1\CSVDemo.runtimeconfig.json
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp3.1\CSVDemo.runtimeconfig.dev.json
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp3.1\CSVDemo.dll
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp3.1\CSVDemo.pdb
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.csproj.AssemblyReference.cache
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.AssemblyInfoInputs.cache
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.AssemblyInfo.cs
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.csproj.CoreCompileInputs.cache
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.csproj.CopyComplete
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.dll
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.pdb
+C:\Users\Teju Reddy\source\repos\CSVDemo\CSVDemo\obj\Debug\netcoreapp3.1\CSVDemo.genruntimeconfig.cache
